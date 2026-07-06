@@ -1,0 +1,19 @@
+{
+  "name": "feature_engineer",
+  "owner": {
+    "name": "Parallight Skills",
+    "url": "https://github.com/parallight-skills"
+  },
+  "metadata": {
+    "description": "Trial-to-Paid 转化预测的特征工程 skill:6 维→27 维(原始+平方+两两交互),挖出非线性/交互信号。反事实增量 +0.20~+0.30,主杠杆,整条流水线最值钱的件。单件可组合零件,不做训练/校准。"
+  },
+  "plugins": [
+    {
+      "name": "feature_engineer",
+      "description": "Trial-to-Paid 转化预测的特征工程 skill:6 维→27 维(原始+平方+两两交互),挖出非线性/交互信号。反事实增量 +0.20~+0.30,主杠杆,整条流水线最值钱的件。单件可组合零件,不做训练/校准。",
+      "version": "0.1.0",
+      "source": "./",
+      "category": "ml"
+    }
+  ]
+}
